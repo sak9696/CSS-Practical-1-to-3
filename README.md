@@ -1,1 +1,1 @@
-# CSS-Practical-1-to-3
+# CSS-Practicals
